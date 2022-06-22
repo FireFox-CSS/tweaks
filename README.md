@@ -127,7 +127,7 @@
 
  ## 16. Files
 
-![image](https://store-images.s-microsoft.com/image/apps.28461.13649428968955623.59073a52-8c10-4ce8-9b74-ae08c827a5d2.17894beb-c0f0-4a06-9f6c-e405d44f85f3)
+![image](https://store-images.s-microsoft.com/image/apps.21598.13649428968955623.3b91edd8-2bc3-41b3-a6d0-790796cf437d.ad0e6ced-a936-4a01-9b8f-bacd559d89e7)
 
 **Description:** Files is a file manager which leverages the latest features of the Windows platform including Fluent Design, seamless updates, and APIs which enable the performance and lifecycle behavior that users expect.
 
